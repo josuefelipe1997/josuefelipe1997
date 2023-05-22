@@ -1,4 +1,4 @@
-### Olá eu sou o Josué Felipe 👨‍💻
+### Olá, eu sou o Josué Felipe 👨‍💻
 
 Atualmente estou no 2° periodo de Engenharia de Software e aqui esta um pouco dos projetos que criei ao longo desse tempo.<br/>
 
