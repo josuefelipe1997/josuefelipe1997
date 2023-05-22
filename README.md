@@ -1,17 +1,16 @@
-### Hi there ,👋
+### Olá eu sou o Josué Felipe.
 
-Eu sou Josué Felipe, atualmente estudo engenharia de software.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br/>
+Atualmente estou no 2° periodo de Engenharia de Software, e aqui esta um pouco dos projetos que criei ao longo desse tempo.
 
-Sou especialista em coleta e tratademento de dados para analise utilizando a linguagem Python.
+![Josue GitHub stats](https://github-readme-stats.vercel.app/api?username=josuefelipe1997&show_icons=true&theme=dark)
 
- <div>
-  <a href="https://github.com/josuefelipe1997">
-  <img height="180em" src="https://josuefelipe1997.vercel.app
-/api?username=josuefelipe1997&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://josuefelipe1997.vercel.app
-/api/top-langs/?username=josuefelipe1997&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuefelipe1997&layout=donut&theme=dark)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=BOTs-Python&theme=dark)
+
+### Tecnologias que uso no meu dia a dia:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Josue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Josue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,15 +21,15 @@ Sou especialista em coleta e tratademento de dados para analise utilizando a lin
   <img align="center" alt="Josue-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Josue-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  
-</div>
-  
-  ##
+</div><br/>
+
+### Minhas redes socias para contato:
  
-<div> 
+<br/><div> 
   <a href="https://www.instagram.com/josuefelipe1997/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:josuefelipe1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://www.linkedin.com/in/josué-santos-902a73180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div><br/>
