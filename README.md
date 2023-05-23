@@ -13,6 +13,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Projetos-Java&theme=dark)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Pokedex&theme=dark)
+
 ### Tecnologias que uso no meu dia a dia:
 
 <div style="display: inline_block"><br>
