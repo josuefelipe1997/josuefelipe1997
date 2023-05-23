@@ -9,11 +9,11 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuefelipe1997&layout=donut&theme=dark)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=BOTs-Python&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=BOTs-Python&theme=dark&)](https://github.com/josuefelipe1997/BOTs-Python)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Projetos-Java&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Projetos-Java&theme=dark)](https://github.com/josuefelipe1997/Projetos-Java)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Pokedex&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Pokedex&theme=dark)](https://github.com/josuefelipe1997/Pokedex)
 
 ### Tecnologias que uso no meu dia a dia:
 
