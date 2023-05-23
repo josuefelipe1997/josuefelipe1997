@@ -5,15 +5,15 @@ Atualmente estou no 2° periodo de Engenharia de Software e aqui esta um pouco d
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.<br/>
 
 
-![Josue GitHub stats](https://github-readme-stats.vercel.app/api?username=josuefelipe1997&show_icons=true&theme=dark)
+![Josue GitHub stats](https://github-readme-stats.vercel.app/api?username=josuefelipe1997&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuefelipe1997&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuefelipe1997&layout=donut&theme=transparent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=BOTs-Python&theme=dark)](https://github.com/josuefelipe1997/BOTs-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=BOTs-Python&theme=transparent)](https://github.com/josuefelipe1997/BOTs-Python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Projetos-Java&theme=dark)](https://github.com/josuefelipe1997/Projetos-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Projetos-Java&theme=transparent)](https://github.com/josuefelipe1997/Projetos-Java)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Pokedex&theme=dark)](https://github.com/josuefelipe1997/Pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Pokedex&theme=transparent)](https://github.com/josuefelipe1997/Pokedex)
 
 ### Tecnologias que uso no meu dia a dia:
 
