@@ -11,6 +11,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=BOTs-Python&theme=transparent)](https://github.com/josuefelipe1997/BOTs-Python)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=BOTs-Python&theme=transparent)](https://github.com/josuefelipe1997/Machine-Learning)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Projetos-Java&theme=transparent)](https://github.com/josuefelipe1997/Projetos-Java)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josuefelipe1997&repo=Pokedex&theme=transparent)](https://github.com/josuefelipe1997/Pokedex)
